@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 1420px;
+    margin: 0 auto;
+}
+.title__heading{
+    font-family: var(--Poppins);
+    font-weight: var(--samibold);
+    color: var(--black);
+    font-size: var(--heading);
+}
+.title__subheading{
+    font-family: var(--nunito);
+    font-weight: var(--regular);
+    font-size: var(--subheading);
+    color: var(--primary);
+}

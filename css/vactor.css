@@ -1,0 +1,8 @@
+.vector__box{
+    display: flex;
+    transform: translateY(-200px);
+}
+.vector__item{
+    width: 25%;
+    text-align: center;
+}

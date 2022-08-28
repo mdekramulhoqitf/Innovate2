@@ -1,0 +1,32 @@
+:root{
+    --primary: #6A55EA;
+    --primarylight: #F0EDFF;
+    --orange: #F8A64C;
+    --orangelight: #FEF6EC;
+    --footer:#F1FBFB;
+    --green: #63DE9D;
+    --greenlight:#E8FCF2;
+    --white: #FFFFFF;
+    --sky:#D2EAFD;
+    --skylight:#EFF4F8;
+    --skylightpro:#F1FBFB;
+    --purple:#845A9F;
+    --gapcolor:#D7E6F9;
+    --sweetlight:#FEF6EC;
+    --whitelight:#C4C4C4;
+    --black: #29313D;
+    --blacklight:#29313db6;
+    --sectiongap: 130px;
+    --perafontsize: 18px;
+    --bannertitel: 64px;
+    --heading: 48px;
+    --priceheading: 28px;
+    --subheading: 24px;
+    --textheding: 36px;
+    --opensans: 'Open Sans', sans-serif;
+    --Poppins: 'Poppins', sans-serif;
+    --nunito: 'Nunito', sans-serif;
+    --regular: 400px;
+    --samibold: 600;
+    --bold: 800;
+}

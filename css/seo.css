@@ -1,0 +1,35 @@
+.seo__image{
+    background: url(../images/seo_banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    padding: 200px 0;
+    border-radius: 20px;
+}
+.seo__headingtext--font{
+    font-family: var(--Poppins);
+    font-size: var(--heading);
+    font-weight: var(--samibold);
+    text-align: center;
+    color: var(--white);
+}
+.seo__peratext--font{
+    font-family: var(--nunito);
+    font-size: var(--perafontsize);
+    font-weight: var(--regular);
+    margin: 0 auto;
+    text-align: center;
+    color: var(--white);
+    border-radius: 20px;
+}
+.seo__imagekite{
+    animation: kite 3s alternate infinite linear;
+}
+@keyframes kite{
+    from{
+        transform: translateX(50px);
+    }to{
+        transform: translateX(100px);
+    }
+}

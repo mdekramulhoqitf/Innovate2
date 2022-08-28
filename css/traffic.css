@@ -1,0 +1,19 @@
+.traffic{
+    margin-top: 250px;
+}
+.traffic__text__peragraph{
+    width: 590px;
+    padding: 50px 0;
+    font-size: var(--perafontsize);
+    font-family: var(--Poppins);
+    font-weight: var(--regular);
+}
+.traffic__box{
+    display: flex;
+    margin-bottom: 100px;
+}
+.traffic__images{
+    width: 700px;
+    height: 440px;
+    margin-left: 120px;
+}
